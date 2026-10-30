@@ -43,7 +43,7 @@ The dataset contains transaction records for three customers, two of whom joined
 - Date comparisons and date-based filtering
 - Customer segmentation and loyalty points calculations
 
-## 6. Business Questions & Queries
+## 6. Examples of Business Questions & Queries
 
 ### A. Customer Spending and Visits
 
